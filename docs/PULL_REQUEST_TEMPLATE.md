@@ -3,11 +3,11 @@
 - [ ] Bravo 
 - [X] Charlie
 - [ ] Delta
-- [ ] Echo
+- [x] Echo
 
 # Seleccione el tipo de actividad
-- [ ] Feature
+- [x] Feature
 - [ ] Hotfix
 - [ ] Refactor
 - [ ] Performance
-- [X] Testing
+- [ ] Testing
